@@ -12,3 +12,6 @@
 7- update the app.py
 
 # https://github.com/FadelAlsaleh/test2/raw/master/samsumdata.zip
+
+
+# ECR :  210019504962.dkr.ecr.eu-north-1.amazonaws.com/text-s
